@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">TCommons Library</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="close">Cerrar</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+
+</resources>
